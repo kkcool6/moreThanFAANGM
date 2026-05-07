@@ -86,7 +86,7 @@ This Repository contains the list of companies(more than FAANG) which you can jo
       </thead>
       <tbody>
          <tr>
-            <td align="center">481</td>
+            <td align="center">482</td>
          </tr>
       </tbody>
    </table>
@@ -582,6 +582,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <li><a href="https://pharmeasy.in/careers/">PharmEasy</a>  </li>
 <li><a href="https://www.careers.philips.com/professional/in/en">Phillips</a></li>
 <li><a href="https://www.phonepe.com/careers/">Phonepe</a>  </li>
+<li><a href="https://pinakinvox.com">Pinakinvox</a>  </li>
 <li><a href="https://www.playment.io/careers">Playment</a>  </li>
 <li><a href="https://planful.com/jobs/">Planful</a>  </li>
 <li><a href="https://polygon.technology/careers/">Polygon Technology</a></li>
